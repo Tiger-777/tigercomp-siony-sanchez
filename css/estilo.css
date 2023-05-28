@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: bold;
+}
+.logo{
+    width: 80px;
+    /* padding: 3px 0; */
+}
+
+.header {
+    color: #101111;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #1b4b75;
+}
+
+footer{
+background-color: #212529;
+padding: 50px; 
+}
+footer{
+    color: aliceblue;
+}
